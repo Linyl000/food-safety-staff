@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['goLogin',['$event']]]]]}}" class="pages data-v-2c6d9cac" bindtap="__e"><image class="bg-img _img data-v-2c6d9cac" src="{{$root.m0}}" alt></image><u-navbar vue-id="4f5d849c-1" title="全民食安" bgColor="transparent" titleStyle="color:#fff" class="data-v-2c6d9cac" bind:__l="__l"></u-navbar></view>

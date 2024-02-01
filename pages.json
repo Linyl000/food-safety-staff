@@ -1,0 +1,168 @@
+{
+	"pages": [{
+			"path": "pages/lookFirst/lookFirst",
+			"style": {
+				"navigationStyle": "custom"
+			}
+
+		}, {
+			"path": "pages/index/index",
+			"style": {
+
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		}
+
+		, {
+			"path": "pages/examine/examine",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"subPackages": [{
+		"root": "pages_other1",
+		"pages": [{
+			"path": "accountNumber/accountNumber",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "aboutOurs/aboutOurs",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "userInfo/userInfo",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "people/people",
+			"style": {
+				"navigationBarTitleText": "人员管理",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "equipment/equipment",
+			"style": {
+				"navigationBarTitleText": "设备管理",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "evaluate/evaluate",
+			"style": {
+				"navigationBarTitleText": "企业评价",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "supervise/supervise",
+			"style": {
+				"navigationBarTitleText": "行政监督",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "supDetails/supDetails",
+			"style": {
+				"navigationBarTitleText": "面单详情",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "register/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "test/test",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "changePeople/changePeople",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "suggestion/suggestion",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "changeMima/changeMima",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}]
+	}],
+	"tabBar": {
+		"color": "#ccc",
+		"selectedColor": "#46a7ff",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "首页",
+			"iconPath": "static/index_f.png",
+			"selectedIconPath": "static/index_t.png"
+		}, {
+			"pagePath": "pages/message/message",
+			"text": "监督",
+			"iconPath": "static/index_f.png",
+			"selectedIconPath": "static/index_t.png"
+		}, {
+			"pagePath": "pages/examine/examine",
+			"text": "审核",
+			"iconPath": "static/index_f.png",
+			"selectedIconPath": "static/index_t.png"
+		}, {
+			"pagePath": "pages/user/user",
+			"text": "个人中心",
+			"iconPath": "static/user_f.png",
+			"selectedIconPath": "static/user_t.png"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "全民食安",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

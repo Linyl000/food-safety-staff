@@ -1,0 +1,68 @@
+{
+  "pages": [
+    "pages/lookFirst/lookFirst",
+    "pages/index/index",
+    "pages/login/login",
+    "pages/user/user",
+    "pages/examine/examine",
+    "pages/message/message"
+  ],
+  "subPackages": [
+    {
+      "root": "pages_other1",
+      "pages": [
+        "accountNumber/accountNumber",
+        "aboutOurs/aboutOurs",
+        "userInfo/userInfo",
+        "people/people",
+        "equipment/equipment",
+        "evaluate/evaluate",
+        "supervise/supervise",
+        "supDetails/supDetails",
+        "register/register",
+        "test/test",
+        "changePeople/changePeople",
+        "suggestion/suggestion",
+        "changeMima/changeMima"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "全民食安",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#ccc",
+    "selectedColor": "#46a7ff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/index_f.png",
+        "selectedIconPath": "static/index_t.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "监督",
+        "iconPath": "static/index_f.png",
+        "selectedIconPath": "static/index_t.png"
+      },
+      {
+        "pagePath": "pages/examine/examine",
+        "text": "审核",
+        "iconPath": "static/index_f.png",
+        "selectedIconPath": "static/index_t.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "static/user_f.png",
+        "selectedIconPath": "static/user_t.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
