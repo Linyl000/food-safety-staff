@@ -12,15 +12,11 @@
       "root": "pages_other1",
       "pages": [
         "accountNumber/accountNumber",
-        "aboutOurs/aboutOurs",
         "userInfo/userInfo",
         "people/people",
         "equipment/equipment",
         "evaluate/evaluate",
-        "supervise/supervise",
         "supDetails/supDetails",
-        "register/register",
-        "test/test",
         "changePeople/changePeople",
         "suggestion/suggestion",
         "changeMima/changeMima"

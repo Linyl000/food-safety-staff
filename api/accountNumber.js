@@ -5,5 +5,5 @@ import {
 
 //使用手机 + 密码登录
 export function login(data) {
-	return post('/member/auth/login', data)
+	return post('app-api/member/auth/login', data)
 }

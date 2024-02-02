@@ -47,13 +47,6 @@
 				"navigationStyle": "custom"
 			}
 		}, {
-			"path": "aboutOurs/aboutOurs",
-			"style": {
-				"navigationBarTitleText": "关于我们",
-				"enablePullDownRefresh": false
-			}
-
-		}, {
 			"path": "userInfo/userInfo",
 			"style": {
 				"navigationBarTitleText": "个人中心",
@@ -82,30 +75,9 @@
 			}
 
 		}, {
-			"path": "supervise/supervise",
-			"style": {
-				"navigationBarTitleText": "行政监督",
-				"enablePullDownRefresh": false
-			}
-
-		}, {
 			"path": "supDetails/supDetails",
 			"style": {
 				"navigationBarTitleText": "面单详情",
-				"enablePullDownRefresh": false
-			}
-
-		}, {
-			"path": "register/register",
-			"style": {
-				"navigationBarTitleText": "注册",
-				"enablePullDownRefresh": false
-			}
-
-		}, {
-			"path": "test/test",
-			"style": {
-				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false
 			}
 

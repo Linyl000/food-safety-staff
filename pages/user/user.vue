@@ -33,7 +33,11 @@
 		</div>
 		<div style="font-size: 36rpx;line-height: 3;font-weight: 600;">管理中心</div>
 		<div class="manage">
-			<div class="manage-one" v-for="i in 4" :key="i" @click="goOtherPage(i)">
+			<div class="manage-one" @click="goOtherPage(1)">
+				<img :src="'../../static/userpeople.png'" alt="" />
+				<div class="des">人员管理</div>
+			</div>
+			<!-- <div class="manage-one" v-for="i in 4" :key="i" @click="goOtherPage(i)">
 				<img
 					:src="
 						i === 0
@@ -47,7 +51,7 @@
 					alt=""
 				/>
 				<div class="des">{{ i === 0 ? '个人中心' : i === 1 ? '人员管理' : i === 2 ? '设备管理' : '企业评价' }}</div>
-			</div>
+			</div> -->
 		</div>
 		<u-line margin="20rpx 0 0 0"></u-line>
 		<div style="font-size: 36rpx;line-height: 3;font-weight: 600;">设置</div>
@@ -56,12 +60,12 @@
 				:border="false"
 				icon="account"
 				size="large"
-				title="关于我们"
+				title="修改密码"
 				isLink
-				url="/pages_other1/aboutOurs/aboutOurs"
+				url="/pages_other1/changeMima/changeMima"
 				arrow-direction="right"
 			></u-cell>
-			<u-cell
+			<!-- <u-cell
 				:border="false"
 				icon="account"
 				size="large"
@@ -69,7 +73,7 @@
 				isLink
 				url="/pages_other1/suggestion/suggestion"
 				arrow-direction="right"
-			></u-cell>
+			></u-cell> -->
 		</u-cell-group>
 	</view>
 </template>

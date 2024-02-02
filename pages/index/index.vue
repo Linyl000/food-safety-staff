@@ -15,7 +15,7 @@
 				</view>
 				<view class="details">
 					<view class="detail-address">地址：xxxxxxxxxxxxxxxxxxxxxxxxxxxxx</view>
-					<u-icon name="account-fill" size="26"></u-icon>
+					<u-icon name="account-fill" size="26" @click.stop="goPeople"></u-icon>
 				</view>
 			</view>
 		</view>

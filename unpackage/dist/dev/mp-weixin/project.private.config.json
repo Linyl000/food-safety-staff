@@ -9,6 +9,13 @@
       "list": [
         {
           "name": "",
+          "pathName": "pages/examine/examine",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
           "pathName": "pages_other1/evaluate/evaluate",
           "query": "",
           "launchMode": "default",

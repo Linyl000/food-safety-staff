@@ -4,5 +4,5 @@ import {
 
 //注册
 export function userInsert(data) {
-	return put('/member/user/insert', data)
+	return put('app-api/member/user/insert', data)
 }

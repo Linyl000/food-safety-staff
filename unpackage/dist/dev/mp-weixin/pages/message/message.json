@@ -1,5 +1,11 @@
 {
   "navigationBarTitleText": "",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "z-paging": "/uni_modules/z-paging/components/z-paging/z-paging",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag"
+  }
 }
