@@ -98,13 +98,13 @@ var components
 try {
   components = {
     zPaging: function() {
-      return Promise.all(/*! import() | uni_modules/z-paging/components/z-paging/z-paging */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/z-paging/components/z-paging/z-paging")]).then(__webpack_require__.bind(null, /*! @/uni_modules/z-paging/components/z-paging/z-paging.vue */ 307))
+      return Promise.all(/*! import() | uni_modules/z-paging/components/z-paging/z-paging */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/z-paging/components/z-paging/z-paging")]).then(__webpack_require__.bind(null, /*! @/uni_modules/z-paging/components/z-paging/z-paging.vue */ 273))
     },
     uSearch: function() {
-      return Promise.all(/*! import() | uni_modules/uview-ui/components/u-search/u-search */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u-search/u-search")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u-search/u-search.vue */ 340))
+      return Promise.all(/*! import() | uni_modules/uview-ui/components/u-search/u-search */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u-search/u-search")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u-search/u-search.vue */ 306))
     },
     uIcon: function() {
-      return Promise.all(/*! import() | uni_modules/uview-ui/components/u-icon/u-icon */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u-icon/u-icon")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u-icon/u-icon.vue */ 348))
+      return Promise.all(/*! import() | uni_modules/uview-ui/components/u-icon/u-icon */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u-icon/u-icon")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u-icon/u-icon.vue */ 314))
     }
   }
 } catch (e) {
@@ -217,9 +217,10 @@ var _default = {
       // 		this.$refs.paging.complete(false);
       // 	});
     },
-    goEvalueate: function goEvalueate() {
+
+    goUserInfo: function goUserInfo(j, type) {
       uni.navigateTo({
-        url: '/pages_other1/evaluate/evaluate' });
+        url: '/pages_other1/userInfo/userInfo?j=' + j + '&&examine=no&&type=' + type });
 
     } } };exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))

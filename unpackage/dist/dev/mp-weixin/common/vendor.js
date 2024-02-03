@@ -20021,15 +20021,7 @@ function login(data) {
 /* 214 */,
 /* 215 */,
 /* 216 */,
-/* 217 */,
-/* 218 */,
-/* 219 */,
-/* 220 */,
-/* 221 */,
-/* 222 */,
-/* 223 */,
-/* 224 */,
-/* 225 */
+/* 217 */
 /*!*************************************************!*\
   !*** F:/uniApp/food-safety-staff/api/people.js ***!
   \*************************************************/
@@ -20066,21 +20058,21 @@ function employeesGet(query) {
 }
 
 /***/ }),
+/* 218 */,
+/* 219 */,
+/* 220 */,
+/* 221 */,
+/* 222 */,
+/* 223 */,
+/* 224 */,
+/* 225 */,
 /* 226 */,
 /* 227 */,
 /* 228 */,
 /* 229 */,
 /* 230 */,
 /* 231 */,
-/* 232 */,
-/* 233 */,
-/* 234 */,
-/* 235 */,
-/* 236 */,
-/* 237 */,
-/* 238 */,
-/* 239 */,
-/* 240 */
+/* 232 */
 /*!***************************************************!*\
   !*** F:/uniApp/food-safety-staff/api/evaluate.js ***!
   \***************************************************/
@@ -20098,6 +20090,14 @@ function reviewsPage(query) {
 }
 
 /***/ }),
+/* 233 */,
+/* 234 */,
+/* 235 */,
+/* 236 */,
+/* 237 */,
+/* 238 */,
+/* 239 */,
+/* 240 */,
 /* 241 */,
 /* 242 */,
 /* 243 */,
@@ -20127,41 +20127,7 @@ function reviewsPage(query) {
 /* 267 */,
 /* 268 */,
 /* 269 */,
-/* 270 */,
-/* 271 */,
-/* 272 */,
-/* 273 */,
-/* 274 */,
-/* 275 */,
-/* 276 */,
-/* 277 */,
-/* 278 */,
-/* 279 */,
-/* 280 */,
-/* 281 */,
-/* 282 */,
-/* 283 */,
-/* 284 */,
-/* 285 */,
-/* 286 */,
-/* 287 */,
-/* 288 */,
-/* 289 */,
-/* 290 */,
-/* 291 */,
-/* 292 */,
-/* 293 */,
-/* 294 */,
-/* 295 */,
-/* 296 */,
-/* 297 */,
-/* 298 */,
-/* 299 */,
-/* 300 */,
-/* 301 */,
-/* 302 */,
-/* 303 */,
-/* 304 */
+/* 270 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-navbar/props.js ***!
   \*************************************************************************************/
@@ -20253,12 +20219,12 @@ function reviewsPage(query) {
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 305 */,
-/* 306 */,
-/* 307 */,
-/* 308 */,
-/* 309 */,
-/* 310 */
+/* 271 */,
+/* 272 */,
+/* 273 */,
+/* 274 */,
+/* 275 */,
+/* 276 */
 /*!*************************************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-main.js?vue&type=script&lang=js& ***!
   \*************************************************************************************************************************/
@@ -20267,13 +20233,13 @@ function reviewsPage(query) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./z-paging-main.js?vue&type=script&lang=js& */ 311);
+/* harmony import */ var _D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./z-paging-main.js?vue&type=script&lang=js& */ 277);
 /* harmony import */ var _D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);
 /* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
  /* harmony default export */ __webpack_exports__["default"] = (_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_HBuilderX_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_z_paging_main_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
-/* 311 */
+/* 277 */
 /*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-main.js?vue&type=script&lang=js& ***!
   \****************************************************************************************************************************************************************************************************************************************************************************************************************/
@@ -20283,28 +20249,28 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 35));
 
-var _zPagingStatic = _interopRequireDefault(__webpack_require__(/*! ./z-paging-static */ 312));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! ./z-paging-constant */ 313));
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! ./z-paging-utils */ 314));
+var _zPagingStatic = _interopRequireDefault(__webpack_require__(/*! ./z-paging-static */ 278));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! ./z-paging-constant */ 279));
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! ./z-paging-utils */ 280));
 
 
 
 
 
 
-var _commonLayout = _interopRequireDefault(__webpack_require__(/*! ./modules/common-layout */ 319));
-var _dataHandle = _interopRequireDefault(__webpack_require__(/*! ./modules/data-handle */ 320));
-var _i18n = _interopRequireDefault(__webpack_require__(/*! ./modules/i18n */ 323));
-var _nvue = _interopRequireDefault(__webpack_require__(/*! ./modules/nvue */ 328));
-var _empty = _interopRequireDefault(__webpack_require__(/*! ./modules/empty */ 329));
-var _refresher = _interopRequireDefault(__webpack_require__(/*! ./modules/refresher */ 330));
-var _loadMore = _interopRequireDefault(__webpack_require__(/*! ./modules/load-more */ 331));
-var _loading = _interopRequireDefault(__webpack_require__(/*! ./modules/loading */ 332));
-var _scroller = _interopRequireDefault(__webpack_require__(/*! ./modules/scroller */ 333));
-var _backToTop = _interopRequireDefault(__webpack_require__(/*! ./modules/back-to-top */ 334));
-var _virtualList = _interopRequireDefault(__webpack_require__(/*! ./modules/virtual-list */ 335));
+var _commonLayout = _interopRequireDefault(__webpack_require__(/*! ./modules/common-layout */ 285));
+var _dataHandle = _interopRequireDefault(__webpack_require__(/*! ./modules/data-handle */ 286));
+var _i18n = _interopRequireDefault(__webpack_require__(/*! ./modules/i18n */ 289));
+var _nvue = _interopRequireDefault(__webpack_require__(/*! ./modules/nvue */ 294));
+var _empty = _interopRequireDefault(__webpack_require__(/*! ./modules/empty */ 295));
+var _refresher = _interopRequireDefault(__webpack_require__(/*! ./modules/refresher */ 296));
+var _loadMore = _interopRequireDefault(__webpack_require__(/*! ./modules/load-more */ 297));
+var _loading = _interopRequireDefault(__webpack_require__(/*! ./modules/loading */ 298));
+var _scroller = _interopRequireDefault(__webpack_require__(/*! ./modules/scroller */ 299));
+var _backToTop = _interopRequireDefault(__webpack_require__(/*! ./modules/back-to-top */ 300));
+var _virtualList = _interopRequireDefault(__webpack_require__(/*! ./modules/virtual-list */ 301));
 
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! ./z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var zPagingRefresh = function zPagingRefresh() {__webpack_require__.e(/*! require.ensure | uni_modules/z-paging/components/z-paging/components/z-paging-refresh */ "uni_modules/z-paging/components/z-paging/components/z-paging-refresh").then((function () {return resolve(__webpack_require__(/*! ../components/z-paging-refresh */ 584));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var zPagingLoadMore = function zPagingLoadMore() {__webpack_require__.e(/*! require.ensure | uni_modules/z-paging/components/z-paging/components/z-paging-load-more */ "uni_modules/z-paging/components/z-paging/components/z-paging-load-more").then((function () {return resolve(__webpack_require__(/*! ../components/z-paging-load-more */ 591));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var zPagingEmptyView = function zPagingEmptyView() {__webpack_require__.e(/*! require.ensure | uni_modules/z-paging/components/z-paging-empty-view/z-paging-empty-view */ "uni_modules/z-paging/components/z-paging-empty-view/z-paging-empty-view").then((function () {return resolve(__webpack_require__(/*! ../../z-paging-empty-view/z-paging-empty-view */ 577));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! ./z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var zPagingRefresh = function zPagingRefresh() {__webpack_require__.e(/*! require.ensure | uni_modules/z-paging/components/z-paging/components/z-paging-refresh */ "uni_modules/z-paging/components/z-paging/components/z-paging-refresh").then((function () {return resolve(__webpack_require__(/*! ../components/z-paging-refresh */ 527));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var zPagingLoadMore = function zPagingLoadMore() {__webpack_require__.e(/*! require.ensure | uni_modules/z-paging/components/z-paging/components/z-paging-load-more */ "uni_modules/z-paging/components/z-paging/components/z-paging-load-more").then((function () {return resolve(__webpack_require__(/*! ../components/z-paging-load-more */ 534));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var zPagingEmptyView = function zPagingEmptyView() {__webpack_require__.e(/*! require.ensure | uni_modules/z-paging/components/z-paging-empty-view/z-paging-empty-view */ "uni_modules/z-paging/components/z-paging-empty-view/z-paging-empty-view").then((function () {return resolve(__webpack_require__(/*! ../../z-paging-empty-view/z-paging-empty-view */ 520));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};
 
 var systemInfo = uni.getSystemInfoSync();var _default2 =
 
@@ -20734,7 +20700,7 @@ var systemInfo = uni.getSystemInfoSync();var _default2 =
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 312 */
+/* 278 */
 /*!**************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-static.js ***!
   \**************************************************************************************************/
@@ -20756,7 +20722,7 @@ var _default =
   base64BackToTop: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIBAMAAABfdrOtAAAAElBMVEVRUVH+/v5HcEyZmZlRUVFRUVGm1ByOAAAABnRSTlPMzADMTZAJBBGsAAAEnElEQVR42t2cS27jMAyGf7/2U+QCQeDsbeQCgZDujaC5/1UmkzaJn+JDFGcw3LdfflKibJkkDnxrL7dbg7sNt6+L4O8OYBM+B0ys+QrGkHZG+OEEQ8g6go8Bx1GIGMdpNOQyIG6XdMgnSPtKhLQDGEZFBgYMkhKFtGBb0EIEjDgFRowoBVaMGAWpMedEfxMiZtwpUsgZCqtlkCNUdpVAWigtCCCDFtLwIWeoreZCWiRYYEKGFEjDg+yRZCUH0iLRAgNyToXUNCRZyMqWhGnUN2IPm3wSlwJ7IUspyCBkIQUZhCykIIeQuRTkEDKXAuM9srrtYbrZN7Y98giZSoFd+t1OxmMITG0dcrSFXFchZ1tIvQZpYWxhBbK3hpQrkMEa0iwh5t4a+QvZvDXyF7J5a+Qv5PPW21/I5623v5DPW29/IaO3Xv5Clrw1y1/Ikrdm+Qs5svw83yNnSJ5BQb4F/F7EIEJSnThGBAXxkFQfLOviQUE8JAUPsosHBfGQfDAtHhREQ1JxIV00KIgmrnRI84S0yAd5BAXxxJUck0f6Qnwr9qmr6xF5xLMjcwn/iudIEAdWnyjkEXlQKZiRVzoqRyLbgeUKKR8Q4alY7cSnoxzSf2ggsqehKr6YVpcXpOd7H93f60cKhOd7Re2LteUF4eLqiVS1mr0ge4io6C2+soaFkJ7MuuuQs1yITEp9hwwKISIpzR2iESKSIoT0rLNwuVHQqoSIpAQJpGce60vIUSdEIuUqgPTsJ5QFZK8UIpBS8iG94GFrDjlrhfCl8CG96Llxmle4kEr6vKWBPIVo9kqDQSRk9/3cWoikcCFPAd33v4dIChPyEvLzBA6RlEYWke4JEUnhKXkLeUEKxRHJFfKCQHGucIW8IdZSRkLeEGMpYyEjiK2UsZARxFTKRMgYYillImQMMZQyFTKB2EmZCplAuFLIHT8TMoWwpQwiIVMIUwqpZP5bp5CCvCTiQKr5f5lCQN+tPCBn2ZvVDFJwIDUP0m1BYAfZYRNSsCB7BqTbhoARePIxtZ9tgwWkoJcwCalmv3MBAemtO4R6dah2HaKQqj8Zvp9sQDjvJ21+SPCBHPJDDk6QITekEV7gqCC19CpKAym9IMfckKv4olMBCeIrWwVEfvkshzQekO9r9P1/ALk+IG1eSPCDiCJfyG+FyU+A6ZCa/piZDinpz7LpkCv5gdkAEshP5emQhv7onw6pGeULyZCSUYiRDAmMkpJkCKs4JhFSq8p8hJBSVbAkhARV6ZUQoisik0FqXTmcDHLVFfbJIEFXoiiCNMpiSxGkVJaNiiBBWQArgTTaUl4JpNQWJUsgQVteXQg+AKkLxQWFGKW+5J2+eVp4S168X3CF1CltCKdTJ8lb84YK2bUBO+wZW0Pqv9nk4tKu49N45NJC5dMM5tLW5tOg59Jq6NM06dL+abFXwr/RkuvTXJwae1abtE/Dt0/ruksTvs84AZ/BCC4jHnyGVfiM3VBQFANEXEah+Ax18RlP4zNox2dkkM/wI58xTn8yDCXGYCDV3W5RGSajtXyGhG1jbpbjzpwGt/0MJft8jqC7iUbQ/QZaxdnKqcIftwAAAABJRU5ErkJggg==' };exports.default = _default;
 
 /***/ }),
-/* 313 */
+/* 279 */
 /*!****************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-constant.js ***!
   \****************************************************************************************************/
@@ -20777,7 +20743,7 @@ var _default =
   listCellIndexUniqueKey: 'zp_unique_index' };exports.default = _default;
 
 /***/ }),
-/* 314 */
+/* 280 */
 /*!*************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-utils.js ***!
   \*************************************************************************************************/
@@ -20787,9 +20753,9 @@ var _default =
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
 
-var _zPagingConfig = _interopRequireDefault(__webpack_require__(/*! ./z-paging-config */ 315));
-var _index = _interopRequireDefault(__webpack_require__(/*! ../config/index */ 316));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! ./z-paging-constant */ 313));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]工具类
+var _zPagingConfig = _interopRequireDefault(__webpack_require__(/*! ./z-paging-config */ 281));
+var _index = _interopRequireDefault(__webpack_require__(/*! ../config/index */ 282));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! ./z-paging-constant */ 279));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]工具类
 
 var storageKey = 'Z-PAGING-REFRESHER-TIME-STORAGE-KEY';
 var config = null;
@@ -20801,10 +20767,10 @@ var timeoutMap = {};
                      */
 
 try {
-  var contextKeys = __webpack_require__(317).keys();
+  var contextKeys = __webpack_require__(283).keys();
   if (contextKeys.length) {
     var suffix = '.js';
-    config = __webpack_require__(318)("./z-paging-config" + suffix);
+    config = __webpack_require__(284)("./z-paging-config" + suffix);
   }
 } catch (e) {}
 
@@ -21015,7 +20981,7 @@ function _toKebab(value) {
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 315 */
+/* 281 */
 /*!**************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-config.js ***!
   \**************************************************************************************************/
@@ -21046,7 +21012,7 @@ function getConfig() {
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 316 */
+/* 282 */
 /*!********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/config/index.js ***!
   \********************************************************************************************/
@@ -21059,7 +21025,7 @@ var _default =
 {};exports.default = _default;
 
 /***/ }),
-/* 317 */
+/* 283 */
 /*!********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging sync nonrecursive \z-paging-config$ ***!
   \********************************************************************************************/
@@ -21074,10 +21040,10 @@ function webpackEmptyContext(req) {
 webpackEmptyContext.keys = function() { return []; };
 webpackEmptyContext.resolve = webpackEmptyContext;
 module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 317;
+webpackEmptyContext.id = 283;
 
 /***/ }),
-/* 318 */
+/* 284 */
 /*!***************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging sync ^\.\/z\-paging\-config.*$ ***!
   \***************************************************************************************/
@@ -21092,10 +21058,10 @@ function webpackEmptyContext(req) {
 webpackEmptyContext.keys = function() { return []; };
 webpackEmptyContext.resolve = webpackEmptyContext;
 module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 318;
+webpackEmptyContext.id = 284;
 
 /***/ }),
-/* 319 */
+/* 285 */
 /*!********************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/common-layout.js ***!
   \********************************************************************************************************/
@@ -21220,7 +21186,7 @@ var _default =
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 320 */
+/* 286 */
 /*!******************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/data-handle.js ***!
   \******************************************************************************************************/
@@ -21229,10 +21195,10 @@ var _default =
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 313));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));
-var _zPagingInterceptor = _interopRequireDefault(__webpack_require__(/*! ../z-paging-interceptor */ 322));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _slicedToArray(arr, i) {return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();}function _nonIterableRest() {throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _iterableToArrayLimit(arr, i) {if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr))) return;var _arr = [];var _n = true;var _d = false;var _e = undefined;try {for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {_arr.push(_s.value);if (i && _arr.length === i) break;}} catch (err) {_d = true;_e = err;} finally {try {if (!_n && _i["return"] != null) _i["return"]();} finally {if (_d) throw _e;}}return _arr;}function _arrayWithHoles(arr) {if (Array.isArray(arr)) return arr;}function _toConsumableArray(arr) {return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();}function _nonIterableSpread() {throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _unsupportedIterableToArray(o, minLen) {if (!o) return;if (typeof o === "string") return _arrayLikeToArray(o, minLen);var n = Object.prototype.toString.call(o).slice(8, -1);if (n === "Object" && o.constructor) n = o.constructor.name;if (n === "Map" || n === "Set") return Array.from(o);if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen);}function _iterableToArray(iter) {if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter);}function _arrayWithoutHoles(arr) {if (Array.isArray(arr)) return _arrayLikeToArray(arr);}function _arrayLikeToArray(arr, len) {if (len == null || len > arr.length) len = arr.length;for (var i = 0, arr2 = new Array(len); i < len; i++) {arr2[i] = arr[i];}return arr2;}var _default2 =
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 279));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));
+var _zPagingInterceptor = _interopRequireDefault(__webpack_require__(/*! ../z-paging-interceptor */ 288));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _slicedToArray(arr, i) {return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();}function _nonIterableRest() {throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _iterableToArrayLimit(arr, i) {if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr))) return;var _arr = [];var _n = true;var _d = false;var _e = undefined;try {for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {_arr.push(_s.value);if (i && _arr.length === i) break;}} catch (err) {_d = true;_e = err;} finally {try {if (!_n && _i["return"] != null) _i["return"]();} finally {if (_d) throw _e;}}return _arr;}function _arrayWithHoles(arr) {if (Array.isArray(arr)) return arr;}function _toConsumableArray(arr) {return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();}function _nonIterableSpread() {throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _unsupportedIterableToArray(o, minLen) {if (!o) return;if (typeof o === "string") return _arrayLikeToArray(o, minLen);var n = Object.prototype.toString.call(o).slice(8, -1);if (n === "Object" && o.constructor) n = o.constructor.name;if (n === "Map" || n === "Set") return Array.from(o);if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen);}function _iterableToArray(iter) {if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter);}function _arrayWithoutHoles(arr) {if (Array.isArray(arr)) return _arrayLikeToArray(arr);}function _arrayLikeToArray(arr, len) {if (len == null || len > arr.length) len = arr.length;for (var i = 0, arr2 = new Array(len); i < len; i++) {arr2[i] = arr[i];}return arr2;}var _default2 =
 
 {
   props: {
@@ -21986,7 +21952,7 @@ var _zPagingInterceptor = _interopRequireDefault(__webpack_require__(/*! ../z-pa
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 321 */
+/* 287 */
 /*!************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-enum.js ***!
   \************************************************************************************************/
@@ -22038,7 +22004,7 @@ var _default =
     Always: 'always' } };exports.default = _default;
 
 /***/ }),
-/* 322 */
+/* 288 */
 /*!*******************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/z-paging-interceptor.js ***!
   \*******************************************************************************************************/
@@ -22095,7 +22061,7 @@ function _getApp() {
   _handleLanguage2Local: _handleLanguage2Local };exports.default = _default;
 
 /***/ }),
-/* 323 */
+/* 289 */
 /*!***********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/i18n.js ***!
   \***********************************************************************************************/
@@ -22105,12 +22071,12 @@ function _getApp() {
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
 var _uniI18n = __webpack_require__(/*! @dcloudio/uni-i18n */ 3);
-var _index = _interopRequireDefault(__webpack_require__(/*! ../../i18n/index.js */ 324));
+var _index = _interopRequireDefault(__webpack_require__(/*! ../../i18n/index.js */ 290));
 
 
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 313));
-var _zPagingInterceptor = _interopRequireDefault(__webpack_require__(/*! ../z-paging-interceptor */ 322));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]i18n模块
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 279));
+var _zPagingInterceptor = _interopRequireDefault(__webpack_require__(/*! ../z-paging-interceptor */ 288));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]i18n模块
 var _initVueI18n = (0, _uniI18n.initVueI18n)(_index.default),t = _initVueI18n.t;
 var language = uni.getSystemInfoSync().language;var _default =
 {
@@ -22205,7 +22171,7 @@ var language = uni.getSystemInfoSync().language;var _default =
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 324 */
+/* 290 */
 /*!******************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/i18n/index.js ***!
   \******************************************************************************************/
@@ -22213,16 +22179,16 @@ var language = uni.getSystemInfoSync().language;var _default =
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _en = _interopRequireDefault(__webpack_require__(/*! ./en.json */ 325));
-var _zhHans = _interopRequireDefault(__webpack_require__(/*! ./zh-Hans.json */ 326));
-var _zhHant = _interopRequireDefault(__webpack_require__(/*! ./zh-Hant.json */ 327));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _en = _interopRequireDefault(__webpack_require__(/*! ./en.json */ 291));
+var _zhHans = _interopRequireDefault(__webpack_require__(/*! ./zh-Hans.json */ 292));
+var _zhHant = _interopRequireDefault(__webpack_require__(/*! ./zh-Hant.json */ 293));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =
 {
   en: _en.default,
   'zh-Hans': _zhHans.default,
   'zh-Hant': _zhHant.default };exports.default = _default;
 
 /***/ }),
-/* 325 */
+/* 291 */
 /*!*****************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/i18n/en.json ***!
   \*****************************************************************************************/
@@ -22232,7 +22198,7 @@ var _zhHant = _interopRequireDefault(__webpack_require__(/*! ./zh-Hant.json */ 3
 module.exports = JSON.parse("{\"zp.refresher.default\":\"Pull down to refresh\",\"zp.refresher.pulling\":\"Release to refresh\",\"zp.refresher.refreshing\":\"Refreshing...\",\"zp.refresher.complete\":\"Refresh succeeded\",\"zp.loadingMore.default\":\"Click to load more\",\"zp.loadingMore.loading\":\"Loading...\",\"zp.loadingMore.noMore\":\"No more data\",\"zp.loadingMore.fail\":\"Load failed,click to reload\",\"zp.emptyView.title\":\"No data\",\"zp.emptyView.reload\":\"Reload\",\"zp.emptyView.error\":\"Sorry,load failed\",\"zp.refresherUpdateTime.title\":\"Last update: \",\"zp.refresherUpdateTime.none\":\"None\",\"zp.refresherUpdateTime.today\":\"Today\",\"zp.refresherUpdateTime.yesterday\":\"Yesterday\",\"zp.systemLoading.title\":\"Loading...\"}");
 
 /***/ }),
-/* 326 */
+/* 292 */
 /*!**********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/i18n/zh-Hans.json ***!
   \**********************************************************************************************/
@@ -22242,7 +22208,7 @@ module.exports = JSON.parse("{\"zp.refresher.default\":\"Pull down to refresh\",
 module.exports = JSON.parse("{\"zp.refresher.default\":\"继续下拉刷新\",\"zp.refresher.pulling\":\"松开立即刷新\",\"zp.refresher.refreshing\":\"正在刷新...\",\"zp.refresher.complete\":\"刷新成功\",\"zp.loadingMore.default\":\"点击加载更多\",\"zp.loadingMore.loading\":\"正在加载...\",\"zp.loadingMore.noMore\":\"没有更多了\",\"zp.loadingMore.fail\":\"加载失败，点击重新加载\",\"zp.emptyView.title\":\"没有数据哦~\",\"zp.emptyView.reload\":\"重新加载\",\"zp.emptyView.error\":\"很抱歉，加载失败\",\"zp.refresherUpdateTime.title\":\"最后更新：\",\"zp.refresherUpdateTime.none\":\"无\",\"zp.refresherUpdateTime.today\":\"今天\",\"zp.refresherUpdateTime.yesterday\":\"昨天\",\"zp.systemLoading.title\":\"加载中...\"}");
 
 /***/ }),
-/* 327 */
+/* 293 */
 /*!**********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/i18n/zh-Hant.json ***!
   \**********************************************************************************************/
@@ -22252,7 +22218,7 @@ module.exports = JSON.parse("{\"zp.refresher.default\":\"继续下拉刷新\",\"
 module.exports = JSON.parse("{\"zp.refresher.default\":\"繼續下拉重繪\",\"zp.refresher.pulling\":\"鬆開立即重繪\",\"zp.refresher.refreshing\":\"正在重繪...\",\"zp.refresher.complete\":\"重繪成功\",\"zp.loadingMore.default\":\"點擊加載更多\",\"zp.loadingMore.loading\":\"正在加載...\",\"zp.loadingMore.noMore\":\"沒有更多了\",\"zp.loadingMore.fail\":\"加載失敗，點擊重新加載\",\"zp.emptyView.title\":\"沒有數據哦~\",\"zp.emptyView.reload\":\"重新加載\",\"zp.emptyView.error\":\"很抱歉，加載失敗\",\"zp.refresherUpdateTime.title\":\"最後更新：\",\"zp.refresherUpdateTime.none\":\"無\",\"zp.refresherUpdateTime.today\":\"今天\",\"zp.refresherUpdateTime.yesterday\":\"昨天\",\"zp.systemLoading.title\":\"加載中...\"}");
 
 /***/ }),
-/* 328 */
+/* 294 */
 /*!***********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/nvue.js ***!
   \***********************************************************************************************/
@@ -22261,9 +22227,9 @@ module.exports = JSON.parse("{\"zp.refresher.default\":\"繼續下拉重繪\",\"
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 313));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]nvue独有部分模块
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 279));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]nvue独有部分模块
 var _default =
 
 
@@ -22411,7 +22377,7 @@ var _default =
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 329 */
+/* 295 */
 /*!************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/empty.js ***!
   \************************************************************************************************/
@@ -22420,7 +22386,7 @@ var _default =
 
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]空数据图view模块
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]空数据图view模块
 var _default2 =
 {
   props: {
@@ -22571,7 +22537,7 @@ var _default2 =
     } } };exports.default = _default2;
 
 /***/ }),
-/* 330 */
+/* 296 */
 /*!****************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/refresher.js ***!
   \****************************************************************************************************/
@@ -22580,9 +22546,9 @@ var _default2 =
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 313));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]下拉刷新view模块
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 279));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]下拉刷新view模块
 var _default2 =
 {
   props: {
@@ -23271,7 +23237,7 @@ var _default2 =
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 331 */
+/* 297 */
 /*!****************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/load-more.js ***!
   \****************************************************************************************************/
@@ -23280,8 +23246,8 @@ var _default2 =
 
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 35));
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var _default2 =
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var _default2 =
 
 {
   props: {
@@ -23594,7 +23560,7 @@ var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-
     } } };exports.default = _default2;
 
 /***/ }),
-/* 332 */
+/* 298 */
 /*!**************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/loading.js ***!
   \**************************************************************************************************/
@@ -23603,8 +23569,8 @@ var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]loading相关模块
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]loading相关模块
 var _default =
 {
   props: {
@@ -23696,7 +23662,7 @@ var _default =
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 333 */
+/* 299 */
 /*!***************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/scroller.js ***!
   \***************************************************************************************************/
@@ -23705,8 +23671,8 @@ var _default =
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 35));
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var _default =
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var _default =
 
 
 
@@ -24176,7 +24142,7 @@ var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 334 */
+/* 300 */
 /*!******************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/back-to-top.js ***!
   \******************************************************************************************************/
@@ -24185,7 +24151,7 @@ var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-
 
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]点击返回顶部view模块
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} // [z-paging]点击返回顶部view模块
 var _default2 =
 {
   props: {
@@ -24294,7 +24260,7 @@ var _default2 =
     } } };exports.default = _default2;
 
 /***/ }),
-/* 335 */
+/* 301 */
 /*!*******************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/z-paging/components/z-paging/js/modules/virtual-list.js ***!
   \*******************************************************************************************************/
@@ -24303,9 +24269,9 @@ var _default2 =
 
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 35));
-var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 314));
-var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 313));
-var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 321));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var _default2 =
+var _zPagingUtils = _interopRequireDefault(__webpack_require__(/*! .././z-paging-utils */ 280));
+var _zPagingConstant = _interopRequireDefault(__webpack_require__(/*! .././z-paging-constant */ 279));
+var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-enum */ 287));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};}var _default2 =
 
 {
   props: {
@@ -24763,16 +24729,16 @@ var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-
     } } };exports.default = _default2;
 
 /***/ }),
-/* 336 */,
-/* 337 */,
-/* 338 */,
-/* 339 */,
-/* 340 */,
-/* 341 */,
-/* 342 */,
-/* 343 */,
-/* 344 */,
-/* 345 */
+/* 302 */,
+/* 303 */,
+/* 304 */,
+/* 305 */,
+/* 306 */,
+/* 307 */,
+/* 308 */,
+/* 309 */,
+/* 310 */,
+/* 311 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-search/props.js ***!
   \*************************************************************************************/
@@ -24898,14 +24864,14 @@ var _zPagingEnum = _interopRequireDefault(__webpack_require__(/*! .././z-paging-
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 346 */,
-/* 347 */,
-/* 348 */,
-/* 349 */,
-/* 350 */,
-/* 351 */,
-/* 352 */,
-/* 353 */
+/* 312 */,
+/* 313 */,
+/* 314 */,
+/* 315 */,
+/* 316 */,
+/* 317 */,
+/* 318 */,
+/* 319 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-icon/icons.js ***!
   \***********************************************************************************/
@@ -25128,7 +25094,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
   'uicon-en': "\uE692" };exports.default = _default;
 
 /***/ }),
-/* 354 */
+/* 320 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-icon/props.js ***!
   \***********************************************************************************/
@@ -25225,14 +25191,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 355 */,
-/* 356 */,
-/* 357 */,
-/* 358 */,
-/* 359 */,
-/* 360 */,
-/* 361 */,
-/* 362 */
+/* 321 */,
+/* 322 */,
+/* 323 */,
+/* 324 */,
+/* 325 */,
+/* 326 */,
+/* 327 */,
+/* 328 */
 /*!*****************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/libs/mixin/button.js ***!
   \*****************************************************************************/
@@ -25253,7 +25219,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
     openType: String } };exports.default = _default;
 
 /***/ }),
-/* 363 */
+/* 329 */
 /*!*******************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/libs/mixin/openType.js ***!
   \*******************************************************************************/
@@ -25286,7 +25252,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
     } } };exports.default = _default;
 
 /***/ }),
-/* 364 */
+/* 330 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-button/props.js ***!
   \*************************************************************************************/
@@ -25455,14 +25421,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 365 */,
-/* 366 */,
-/* 367 */,
-/* 368 */,
-/* 369 */,
-/* 370 */,
-/* 371 */,
-/* 372 */
+/* 331 */,
+/* 332 */,
+/* 333 */,
+/* 334 */,
+/* 335 */,
+/* 336 */,
+/* 337 */,
+/* 338 */
 /*!*********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-checkbox-group/props.js ***!
   \*********************************************************************************************/
@@ -25551,14 +25517,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 373 */,
-/* 374 */,
-/* 375 */,
-/* 376 */,
-/* 377 */,
-/* 378 */,
-/* 379 */,
-/* 380 */
+/* 339 */,
+/* 340 */,
+/* 341 */,
+/* 342 */,
+/* 343 */,
+/* 344 */,
+/* 345 */,
+/* 346 */
 /*!***************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-checkbox/props.js ***!
   \***************************************************************************************/
@@ -25635,14 +25601,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 381 */,
-/* 382 */,
-/* 383 */,
-/* 384 */,
-/* 385 */,
-/* 386 */,
-/* 387 */,
-/* 388 */
+/* 347 */,
+/* 348 */,
+/* 349 */,
+/* 350 */,
+/* 351 */,
+/* 352 */,
+/* 353 */,
+/* 354 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-line/props.js ***!
   \***********************************************************************************/
@@ -25683,14 +25649,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 389 */,
-/* 390 */,
-/* 391 */,
-/* 392 */,
-/* 393 */,
-/* 394 */,
-/* 395 */,
-/* 396 */
+/* 355 */,
+/* 356 */,
+/* 357 */,
+/* 358 */,
+/* 359 */,
+/* 360 */,
+/* 361 */,
+/* 362 */
 /*!*****************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-cell-group/props.js ***!
   \*****************************************************************************************/
@@ -25712,14 +25678,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 397 */,
-/* 398 */,
-/* 399 */,
-/* 400 */,
-/* 401 */,
-/* 402 */,
-/* 403 */,
-/* 404 */
+/* 363 */,
+/* 364 */,
+/* 365 */,
+/* 366 */,
+/* 367 */,
+/* 368 */,
+/* 369 */,
+/* 370 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-cell/props.js ***!
   \***********************************************************************************/
@@ -25837,14 +25803,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 405 */,
-/* 406 */,
-/* 407 */,
-/* 408 */,
-/* 409 */,
-/* 410 */,
-/* 411 */,
-/* 412 */
+/* 371 */,
+/* 372 */,
+/* 373 */,
+/* 374 */,
+/* 375 */,
+/* 376 */,
+/* 377 */,
+/* 378 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-tabs/props.js ***!
   \***********************************************************************************/
@@ -25916,14 +25882,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 413 */,
-/* 414 */,
-/* 415 */,
-/* 416 */,
-/* 417 */,
-/* 418 */,
-/* 419 */,
-/* 420 */
+/* 379 */,
+/* 380 */,
+/* 381 */,
+/* 382 */,
+/* 383 */,
+/* 384 */,
+/* 385 */,
+/* 386 */
 /*!**********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-tag/props.js ***!
   \**********************************************************************************/
@@ -26015,14 +25981,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 421 */,
-/* 422 */,
-/* 423 */,
-/* 424 */,
-/* 425 */,
-/* 426 */,
-/* 427 */,
-/* 428 */
+/* 387 */,
+/* 388 */,
+/* 389 */,
+/* 390 */,
+/* 391 */,
+/* 392 */,
+/* 393 */,
+/* 394 */
 /*!************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-input/props.js ***!
   \************************************************************************************/
@@ -26217,7 +26183,365 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 429 */,
+/* 395 */,
+/* 396 */,
+/* 397 */,
+/* 398 */,
+/* 399 */,
+/* 400 */,
+/* 401 */,
+/* 402 */,
+/* 403 */,
+/* 404 */,
+/* 405 */,
+/* 406 */,
+/* 407 */
+/*!***********************************************************************************!*\
+  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-form/props.js ***!
+  \***********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
+  props: {
+    // 当前form的需要验证字段的集合
+    model: {
+      type: Object,
+      default: uni.$u.props.form.model },
+
+    // 验证规则
+    rules: {
+      type: [Object, Function, Array],
+      default: uni.$u.props.form.rules },
+
+    // 有错误时的提示方式，message-提示信息，toast-进行toast提示
+    // border-bottom-下边框呈现红色，none-无提示
+    errorType: {
+      type: String,
+      default: uni.$u.props.form.errorType },
+
+    // 是否显示表单域的下划线边框
+    borderBottom: {
+      type: Boolean,
+      default: uni.$u.props.form.borderBottom },
+
+    // label的位置，left-左边，top-上边
+    labelPosition: {
+      type: String,
+      default: uni.$u.props.form.labelPosition },
+
+    // label的宽度，单位px
+    labelWidth: {
+      type: [String, Number],
+      default: uni.$u.props.form.labelWidth },
+
+    // lable字体的对齐方式
+    labelAlign: {
+      type: String,
+      default: uni.$u.props.form.labelAlign },
+
+    // lable的样式，对象形式
+    labelStyle: {
+      type: Object,
+      default: uni.$u.props.form.labelStyle } } };exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
+
+/***/ }),
+/* 408 */,
+/* 409 */,
+/* 410 */,
+/* 411 */,
+/* 412 */,
+/* 413 */
+/*!****************************************************************************************!*\
+  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-form-item/props.js ***!
+  \****************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
+  props: {
+    // input的label提示语
+    label: {
+      type: String,
+      default: uni.$u.props.formItem.label },
+
+    // 绑定的值
+    prop: {
+      type: String,
+      default: uni.$u.props.formItem.prop },
+
+    // 是否显示表单域的下划线边框
+    borderBottom: {
+      type: [String, Boolean],
+      default: uni.$u.props.formItem.borderBottom },
+
+    // label的位置，left-左边，top-上边
+    labelPosition: {
+      type: String,
+      default: uni.$u.props.formItem.labelPosition },
+
+    // label的宽度，单位px
+    labelWidth: {
+      type: [String, Number],
+      default: uni.$u.props.formItem.labelWidth },
+
+    // 右侧图标
+    rightIcon: {
+      type: String,
+      default: uni.$u.props.formItem.rightIcon },
+
+    // 左侧图标
+    leftIcon: {
+      type: String,
+      default: uni.$u.props.formItem.leftIcon },
+
+    // 是否显示左边的必填星号，只作显示用，具体校验必填的逻辑，请在rules中配置
+    required: {
+      type: Boolean,
+      default: uni.$u.props.formItem.required },
+
+    leftIconStyle: {
+      type: [String, Object],
+      default: uni.$u.props.formItem.leftIconStyle } } };exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
+
+/***/ }),
+/* 414 */,
+/* 415 */,
+/* 416 */,
+/* 417 */,
+/* 418 */,
+/* 419 */,
+/* 420 */,
+/* 421 */
+/*!************************************************************************************!*\
+  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-modal/props.js ***!
+  \************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
+  props: {
+    // 是否展示modal
+    show: {
+      type: Boolean,
+      default: uni.$u.props.modal.show },
+
+    // 标题
+    title: {
+      type: [String],
+      default: uni.$u.props.modal.title },
+
+    // 弹窗内容
+    content: {
+      type: String,
+      default: uni.$u.props.modal.content },
+
+    // 确认文案
+    confirmText: {
+      type: String,
+      default: uni.$u.props.modal.confirmText },
+
+    // 取消文案
+    cancelText: {
+      type: String,
+      default: uni.$u.props.modal.cancelText },
+
+    // 是否显示确认按钮
+    showConfirmButton: {
+      type: Boolean,
+      default: uni.$u.props.modal.showConfirmButton },
+
+    // 是否显示取消按钮
+    showCancelButton: {
+      type: Boolean,
+      default: uni.$u.props.modal.showCancelButton },
+
+    // 确认按钮颜色
+    confirmColor: {
+      type: String,
+      default: uni.$u.props.modal.confirmColor },
+
+    // 取消文字颜色
+    cancelColor: {
+      type: String,
+      default: uni.$u.props.modal.cancelColor },
+
+    // 对调确认和取消的位置
+    buttonReverse: {
+      type: Boolean,
+      default: uni.$u.props.modal.buttonReverse },
+
+    // 是否开启缩放效果
+    zoom: {
+      type: Boolean,
+      default: uni.$u.props.modal.zoom },
+
+    // 是否异步关闭，只对确定按钮有效
+    asyncClose: {
+      type: Boolean,
+      default: uni.$u.props.modal.asyncClose },
+
+    // 是否允许点击遮罩关闭modal
+    closeOnClickOverlay: {
+      type: Boolean,
+      default: uni.$u.props.modal.closeOnClickOverlay },
+
+    // 给一个负的margin-top，往上偏移，避免和键盘重合的情况
+    negativeTop: {
+      type: [String, Number],
+      default: uni.$u.props.modal.negativeTop },
+
+    // modal宽度，不支持百分比，可以数值，px，rpx单位
+    width: {
+      type: [String, Number],
+      default: uni.$u.props.modal.width },
+
+    // 确认按钮的样式，circle-圆形，square-方形，如设置，将不会显示取消按钮
+    confirmButtonShape: {
+      type: String,
+      default: uni.$u.props.modal.confirmButtonShape } } };exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
+
+/***/ }),
+/* 422 */,
+/* 423 */,
+/* 424 */,
+/* 425 */,
+/* 426 */,
+/* 427 */,
+/* 428 */,
+/* 429 */
+/*!***************************************************************************************!*\
+  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-textarea/props.js ***!
+  \***************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
+  props: {
+    // 输入框的内容
+    value: {
+      type: [String, Number],
+      default: uni.$u.props.textarea.value },
+
+    // 输入框为空时占位符
+    placeholder: {
+      type: [String, Number],
+      default: uni.$u.props.textarea.placeholder },
+
+    // 指定placeholder的样式类，注意页面或组件的style中写了scoped时，需要在类名前写/deep/
+    placeholderClass: {
+      type: String,
+      default: uni.$u.props.input.placeholderClass },
+
+    // 指定placeholder的样式
+    placeholderStyle: {
+      type: [String, Object],
+      default: uni.$u.props.input.placeholderStyle },
+
+    // 输入框高度
+    height: {
+      type: [String, Number],
+      default: uni.$u.props.textarea.height },
+
+    // 设置键盘右下角按钮的文字，仅微信小程序，App-vue和H5有效
+    confirmType: {
+      type: String,
+      default: uni.$u.props.textarea.confirmType },
+
+    // 是否禁用
+    disabled: {
+      type: Boolean,
+      default: uni.$u.props.textarea.disabled },
+
+    // 是否显示统计字数
+    count: {
+      type: Boolean,
+      default: uni.$u.props.textarea.count },
+
+    // 是否自动获取焦点，nvue不支持，H5取决于浏览器的实现
+    focus: {
+      type: Boolean,
+      default: uni.$u.props.textarea.focus },
+
+    // 是否自动增加高度
+    autoHeight: {
+      type: Boolean,
+      default: uni.$u.props.textarea.autoHeight },
+
+    // 如果textarea是在一个position:fixed的区域，需要显示指定属性fixed为true
+    fixed: {
+      type: Boolean,
+      default: uni.$u.props.textarea.fixed },
+
+    // 指定光标与键盘的距离
+    cursorSpacing: {
+      type: Number,
+      default: uni.$u.props.textarea.cursorSpacing },
+
+    // 指定focus时的光标位置
+    cursor: {
+      type: [String, Number],
+      default: uni.$u.props.textarea.cursor },
+
+    // 是否显示键盘上方带有”完成“按钮那一栏，
+    showConfirmBar: {
+      type: Boolean,
+      default: uni.$u.props.textarea.showConfirmBar },
+
+    // 光标起始位置，自动聚焦时有效，需与selection-end搭配使用
+    selectionStart: {
+      type: Number,
+      default: uni.$u.props.textarea.selectionStart },
+
+    // 光标结束位置，自动聚焦时有效，需与selection-start搭配使用
+    selectionEnd: {
+      type: Number,
+      default: uni.$u.props.textarea.selectionEnd },
+
+    // 键盘弹起时，是否自动上推页面
+    adjustPosition: {
+      type: Boolean,
+      default: uni.$u.props.textarea.adjustPosition },
+
+    // 是否去掉 iOS 下的默认内边距，只微信小程序有效
+    disableDefaultPadding: {
+      type: Boolean,
+      default: uni.$u.props.textarea.disableDefaultPadding },
+
+    // focus时，点击页面的时候不收起键盘，只微信小程序有效
+    holdKeyboard: {
+      type: Boolean,
+      default: uni.$u.props.textarea.holdKeyboard },
+
+    // 最大输入长度，设置为 -1 的时候不限制最大长度
+    maxlength: {
+      type: [String, Number],
+      default: uni.$u.props.textarea.maxlength },
+
+    // 边框类型，surround-四周边框，bottom-底部边框
+    border: {
+      type: String,
+      default: uni.$u.props.textarea.border },
+
+    // 用于处理或者过滤输入框内容的方法
+    formatter: {
+      type: [Function, null],
+      default: uni.$u.props.textarea.formatter },
+
+    // 是否忽略组件内对文本合成系统事件的处理
+    ignoreCompositionEvent: {
+      type: Boolean,
+      default: true } } };exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
+
+/***/ }),
 /* 430 */,
 /* 431 */,
 /* 432 */,
@@ -26229,76 +26553,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* 438 */,
 /* 439 */,
 /* 440 */,
-/* 441 */
-/*!*******************************************************************************************!*\
-  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-action-sheet/props.js ***!
-  \*******************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // 操作菜单是否展示 （默认false）
-    show: {
-      type: Boolean,
-      default: uni.$u.props.actionSheet.show },
-
-    // 标题
-    title: {
-      type: String,
-      default: uni.$u.props.actionSheet.title },
-
-    // 选项上方的描述信息
-    description: {
-      type: String,
-      default: uni.$u.props.actionSheet.description },
-
-    // 数据
-    actions: {
-      type: Array,
-      default: uni.$u.props.actionSheet.actions },
-
-    // 取消按钮的文字，不为空时显示按钮
-    cancelText: {
-      type: String,
-      default: uni.$u.props.actionSheet.cancelText },
-
-    // 点击某个菜单项时是否关闭弹窗
-    closeOnClickAction: {
-      type: Boolean,
-      default: uni.$u.props.actionSheet.closeOnClickAction },
-
-    // 处理底部安全区（默认true）
-    safeAreaInsetBottom: {
-      type: Boolean,
-      default: uni.$u.props.actionSheet.safeAreaInsetBottom },
-
-    // 小程序的打开方式
-    openType: {
-      type: String,
-      default: uni.$u.props.actionSheet.openType },
-
-    // 点击遮罩是否允许关闭 (默认true)
-    closeOnClickOverlay: {
-      type: Boolean,
-      default: uni.$u.props.actionSheet.closeOnClickOverlay },
-
-    // 圆角值
-    round: {
-      type: [Boolean, String, Number],
-      default: uni.$u.props.actionSheet.round } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
-
-/***/ }),
+/* 441 */,
 /* 442 */,
-/* 443 */,
-/* 444 */,
-/* 445 */,
-/* 446 */,
-/* 447 */,
-/* 448 */,
-/* 449 */
+/* 443 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-rate/props.js ***!
   \***********************************************************************************/
@@ -26375,14 +26632,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
+/* 444 */,
+/* 445 */,
+/* 446 */,
+/* 447 */,
+/* 448 */,
+/* 449 */,
 /* 450 */,
-/* 451 */,
-/* 452 */,
-/* 453 */,
-/* 454 */,
-/* 455 */,
-/* 456 */,
-/* 457 */
+/* 451 */
 /*!************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-album/props.js ***!
   \************************************************************************************/
@@ -26449,14 +26706,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
+/* 452 */,
+/* 453 */,
+/* 454 */,
+/* 455 */,
+/* 456 */,
+/* 457 */,
 /* 458 */,
-/* 459 */,
-/* 460 */,
-/* 461 */,
-/* 462 */,
-/* 463 */,
-/* 464 */,
-/* 465 */
+/* 459 */
 /*!**********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-datetime-picker/props.js ***!
   \**********************************************************************************************/
@@ -26580,7 +26837,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 466 */
+/* 460 */
 /*!***************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/libs/util/dayjs.js ***!
   \***************************************************************************/
@@ -26896,135 +27153,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 });
 
 /***/ }),
+/* 461 */,
+/* 462 */,
+/* 463 */,
+/* 464 */,
+/* 465 */,
+/* 466 */,
 /* 467 */,
-/* 468 */,
-/* 469 */,
-/* 470 */,
-/* 471 */,
-/* 472 */,
-/* 473 */,
-/* 474 */
-/*!***********************************************************************************!*\
-  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-form/props.js ***!
-  \***********************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // 当前form的需要验证字段的集合
-    model: {
-      type: Object,
-      default: uni.$u.props.form.model },
-
-    // 验证规则
-    rules: {
-      type: [Object, Function, Array],
-      default: uni.$u.props.form.rules },
-
-    // 有错误时的提示方式，message-提示信息，toast-进行toast提示
-    // border-bottom-下边框呈现红色，none-无提示
-    errorType: {
-      type: String,
-      default: uni.$u.props.form.errorType },
-
-    // 是否显示表单域的下划线边框
-    borderBottom: {
-      type: Boolean,
-      default: uni.$u.props.form.borderBottom },
-
-    // label的位置，left-左边，top-上边
-    labelPosition: {
-      type: String,
-      default: uni.$u.props.form.labelPosition },
-
-    // label的宽度，单位px
-    labelWidth: {
-      type: [String, Number],
-      default: uni.$u.props.form.labelWidth },
-
-    // lable字体的对齐方式
-    labelAlign: {
-      type: String,
-      default: uni.$u.props.form.labelAlign },
-
-    // lable的样式，对象形式
-    labelStyle: {
-      type: Object,
-      default: uni.$u.props.form.labelStyle } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
-
-/***/ }),
-/* 475 */,
-/* 476 */,
-/* 477 */,
-/* 478 */,
-/* 479 */,
-/* 480 */
-/*!****************************************************************************************!*\
-  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-form-item/props.js ***!
-  \****************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // input的label提示语
-    label: {
-      type: String,
-      default: uni.$u.props.formItem.label },
-
-    // 绑定的值
-    prop: {
-      type: String,
-      default: uni.$u.props.formItem.prop },
-
-    // 是否显示表单域的下划线边框
-    borderBottom: {
-      type: [String, Boolean],
-      default: uni.$u.props.formItem.borderBottom },
-
-    // label的位置，left-左边，top-上边
-    labelPosition: {
-      type: String,
-      default: uni.$u.props.formItem.labelPosition },
-
-    // label的宽度，单位px
-    labelWidth: {
-      type: [String, Number],
-      default: uni.$u.props.formItem.labelWidth },
-
-    // 右侧图标
-    rightIcon: {
-      type: String,
-      default: uni.$u.props.formItem.rightIcon },
-
-    // 左侧图标
-    leftIcon: {
-      type: String,
-      default: uni.$u.props.formItem.leftIcon },
-
-    // 是否显示左边的必填星号，只作显示用，具体校验必填的逻辑，请在rules中配置
-    required: {
-      type: Boolean,
-      default: uni.$u.props.formItem.required },
-
-    leftIconStyle: {
-      type: [String, Object],
-      default: uni.$u.props.formItem.leftIconStyle } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
-
-/***/ }),
-/* 481 */,
-/* 482 */,
-/* 483 */,
-/* 484 */,
-/* 485 */,
-/* 486 */,
-/* 487 */,
-/* 488 */
+/* 468 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-picker/props.js ***!
   \*************************************************************************************/
@@ -27111,14 +27247,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 489 */,
-/* 490 */,
-/* 491 */,
-/* 492 */,
-/* 493 */,
-/* 494 */,
-/* 495 */,
-/* 496 */
+/* 469 */,
+/* 470 */,
+/* 471 */,
+/* 472 */,
+/* 473 */,
+/* 474 */,
+/* 475 */,
+/* 476 */
 /*!******************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-radio-group/props.js ***!
   \******************************************************************************************/
@@ -27211,14 +27347,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 497 */,
-/* 498 */,
-/* 499 */,
-/* 500 */,
-/* 501 */,
-/* 502 */,
-/* 503 */,
-/* 504 */
+/* 477 */,
+/* 478 */,
+/* 479 */,
+/* 480 */,
+/* 481 */,
+/* 482 */,
+/* 483 */,
+/* 484 */
 /*!************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-radio/props.js ***!
   \************************************************************************************/
@@ -27290,14 +27426,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 505 */,
-/* 506 */,
-/* 507 */,
-/* 508 */,
-/* 509 */,
-/* 510 */,
-/* 511 */,
-/* 512 */
+/* 485 */,
+/* 486 */,
+/* 487 */,
+/* 488 */,
+/* 489 */,
+/* 490 */,
+/* 491 */,
+/* 492 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-upload/utils.js ***!
   \*************************************************************************************/
@@ -27459,7 +27595,7 @@ function chooseFile(_ref)
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 513 */
+/* 493 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-upload/mixin.js ***!
   \*************************************************************************************/
@@ -27487,7 +27623,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
       } } } };exports.default = _default;
 
 /***/ }),
-/* 514 */
+/* 494 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-upload/props.js ***!
   \*************************************************************************************/
@@ -27619,170 +27755,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 515 */,
-/* 516 */,
-/* 517 */,
-/* 518 */,
-/* 519 */,
-/* 520 */,
-/* 521 */,
-/* 522 */
-/*!***************************************************************************************!*\
-  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-textarea/props.js ***!
-  \***************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // 输入框的内容
-    value: {
-      type: [String, Number],
-      default: uni.$u.props.textarea.value },
-
-    // 输入框为空时占位符
-    placeholder: {
-      type: [String, Number],
-      default: uni.$u.props.textarea.placeholder },
-
-    // 指定placeholder的样式类，注意页面或组件的style中写了scoped时，需要在类名前写/deep/
-    placeholderClass: {
-      type: String,
-      default: uni.$u.props.input.placeholderClass },
-
-    // 指定placeholder的样式
-    placeholderStyle: {
-      type: [String, Object],
-      default: uni.$u.props.input.placeholderStyle },
-
-    // 输入框高度
-    height: {
-      type: [String, Number],
-      default: uni.$u.props.textarea.height },
-
-    // 设置键盘右下角按钮的文字，仅微信小程序，App-vue和H5有效
-    confirmType: {
-      type: String,
-      default: uni.$u.props.textarea.confirmType },
-
-    // 是否禁用
-    disabled: {
-      type: Boolean,
-      default: uni.$u.props.textarea.disabled },
-
-    // 是否显示统计字数
-    count: {
-      type: Boolean,
-      default: uni.$u.props.textarea.count },
-
-    // 是否自动获取焦点，nvue不支持，H5取决于浏览器的实现
-    focus: {
-      type: Boolean,
-      default: uni.$u.props.textarea.focus },
-
-    // 是否自动增加高度
-    autoHeight: {
-      type: Boolean,
-      default: uni.$u.props.textarea.autoHeight },
-
-    // 如果textarea是在一个position:fixed的区域，需要显示指定属性fixed为true
-    fixed: {
-      type: Boolean,
-      default: uni.$u.props.textarea.fixed },
-
-    // 指定光标与键盘的距离
-    cursorSpacing: {
-      type: Number,
-      default: uni.$u.props.textarea.cursorSpacing },
-
-    // 指定focus时的光标位置
-    cursor: {
-      type: [String, Number],
-      default: uni.$u.props.textarea.cursor },
-
-    // 是否显示键盘上方带有”完成“按钮那一栏，
-    showConfirmBar: {
-      type: Boolean,
-      default: uni.$u.props.textarea.showConfirmBar },
-
-    // 光标起始位置，自动聚焦时有效，需与selection-end搭配使用
-    selectionStart: {
-      type: Number,
-      default: uni.$u.props.textarea.selectionStart },
-
-    // 光标结束位置，自动聚焦时有效，需与selection-start搭配使用
-    selectionEnd: {
-      type: Number,
-      default: uni.$u.props.textarea.selectionEnd },
-
-    // 键盘弹起时，是否自动上推页面
-    adjustPosition: {
-      type: Boolean,
-      default: uni.$u.props.textarea.adjustPosition },
-
-    // 是否去掉 iOS 下的默认内边距，只微信小程序有效
-    disableDefaultPadding: {
-      type: Boolean,
-      default: uni.$u.props.textarea.disableDefaultPadding },
-
-    // focus时，点击页面的时候不收起键盘，只微信小程序有效
-    holdKeyboard: {
-      type: Boolean,
-      default: uni.$u.props.textarea.holdKeyboard },
-
-    // 最大输入长度，设置为 -1 的时候不限制最大长度
-    maxlength: {
-      type: [String, Number],
-      default: uni.$u.props.textarea.maxlength },
-
-    // 边框类型，surround-四周边框，bottom-底部边框
-    border: {
-      type: String,
-      default: uni.$u.props.textarea.border },
-
-    // 用于处理或者过滤输入框内容的方法
-    formatter: {
-      type: [Function, null],
-      default: uni.$u.props.textarea.formatter },
-
-    // 是否忽略组件内对文本合成系统事件的处理
-    ignoreCompositionEvent: {
-      type: Boolean,
-      default: true } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
-
-/***/ }),
-/* 523 */,
-/* 524 */,
-/* 525 */,
-/* 526 */,
-/* 527 */,
-/* 528 */,
-/* 529 */,
-/* 530 */,
-/* 531 */,
-/* 532 */,
-/* 533 */,
-/* 534 */,
-/* 535 */,
-/* 536 */,
-/* 537 */,
-/* 538 */,
-/* 539 */,
-/* 540 */,
-/* 541 */,
-/* 542 */,
-/* 543 */,
-/* 544 */,
-/* 545 */,
-/* 546 */,
-/* 547 */,
-/* 548 */,
-/* 549 */,
-/* 550 */,
-/* 551 */,
-/* 552 */
+/* 495 */,
+/* 496 */,
+/* 497 */,
+/* 498 */,
+/* 499 */,
+/* 500 */,
+/* 501 */,
+/* 502 */
 /*!*************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/libs/util/async-validator.js ***!
   \*************************************************************************************/
@@ -29134,10 +29114,10 @@ Schema.messages = messages;var _default =
 Schema;
 // # sourceMappingURL=index.js.map
 exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/node-libs-browser/mock/process.js */ 553)))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/node-libs-browser/mock/process.js */ 503)))
 
 /***/ }),
-/* 553 */
+/* 503 */
 /*!********************************************************!*\
   !*** ./node_modules/node-libs-browser/mock/process.js ***!
   \********************************************************/
@@ -29168,7 +29148,7 @@ exports.binding = function (name) {
     var path;
     exports.cwd = function () { return cwd };
     exports.chdir = function (dir) {
-        if (!path) path = __webpack_require__(/*! path */ 554);
+        if (!path) path = __webpack_require__(/*! path */ 504);
         cwd = path.resolve(dir, cwd);
     };
 })();
@@ -29181,7 +29161,7 @@ exports.features = {};
 
 
 /***/ }),
-/* 554 */
+/* 504 */
 /*!***********************************************!*\
   !*** ./node_modules/path-browserify/index.js ***!
   \***********************************************/
@@ -29491,29 +29471,22 @@ var substr = 'ab'.substr(-1) === 'b'
     }
 ;
 
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node-libs-browser/mock/process.js */ 553)))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node-libs-browser/mock/process.js */ 503)))
 
 /***/ }),
-/* 555 */,
-/* 556 */,
-/* 557 */,
-/* 558 */,
-/* 559 */,
-/* 560 */,
-/* 561 */,
-/* 562 */,
-/* 563 */,
-/* 564 */,
-/* 565 */,
-/* 566 */,
-/* 567 */,
-/* 568 */,
-/* 569 */,
-/* 570 */,
-/* 571 */,
-/* 572 */,
-/* 573 */,
-/* 574 */
+/* 505 */,
+/* 506 */,
+/* 507 */,
+/* 508 */,
+/* 509 */,
+/* 510 */,
+/* 511 */,
+/* 512 */,
+/* 513 */,
+/* 514 */,
+/* 515 */,
+/* 516 */,
+/* 517 */
 /*!*****************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-status-bar/props.js ***!
   \*****************************************************************************************/
@@ -29529,35 +29502,35 @@ var substr = 'ab'.substr(-1) === 'b'
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 575 */,
-/* 576 */,
-/* 577 */,
-/* 578 */,
-/* 579 */,
-/* 580 */,
-/* 581 */,
-/* 582 */,
-/* 583 */,
-/* 584 */,
-/* 585 */,
-/* 586 */,
-/* 587 */,
-/* 588 */,
-/* 589 */,
-/* 590 */,
-/* 591 */,
-/* 592 */,
-/* 593 */,
-/* 594 */,
-/* 595 */,
-/* 596 */,
-/* 597 */,
-/* 598 */,
-/* 599 */,
-/* 600 */,
-/* 601 */,
-/* 602 */,
-/* 603 */
+/* 518 */,
+/* 519 */,
+/* 520 */,
+/* 521 */,
+/* 522 */,
+/* 523 */,
+/* 524 */,
+/* 525 */,
+/* 526 */,
+/* 527 */,
+/* 528 */,
+/* 529 */,
+/* 530 */,
+/* 531 */,
+/* 532 */,
+/* 533 */,
+/* 534 */,
+/* 535 */,
+/* 536 */,
+/* 537 */,
+/* 538 */,
+/* 539 */,
+/* 540 */,
+/* 541 */,
+/* 542 */,
+/* 543 */,
+/* 544 */,
+/* 545 */,
+/* 546 */
 /*!*******************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-loading-icon/props.js ***!
   \*******************************************************************************************/
@@ -29624,14 +29597,14 @@ var substr = 'ab'.substr(-1) === 'b'
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 604 */,
-/* 605 */,
-/* 606 */,
-/* 607 */,
-/* 608 */,
-/* 609 */,
-/* 610 */,
-/* 611 */
+/* 547 */,
+/* 548 */,
+/* 549 */,
+/* 550 */,
+/* 551 */,
+/* 552 */,
+/* 553 */,
+/* 554 */
 /*!************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-badge/props.js ***!
   \************************************************************************************/
@@ -29711,14 +29684,14 @@ var substr = 'ab'.substr(-1) === 'b'
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 612 */,
-/* 613 */,
-/* 614 */,
-/* 615 */,
-/* 616 */,
-/* 617 */,
-/* 618 */,
-/* 619 */
+/* 555 */,
+/* 556 */,
+/* 557 */,
+/* 558 */,
+/* 559 */,
+/* 560 */,
+/* 561 */,
+/* 562 */
 /*!*****************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-transition/props.js ***!
   \*****************************************************************************************/
@@ -29750,7 +29723,7 @@ var substr = 'ab'.substr(-1) === 'b'
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 620 */
+/* 563 */
 /*!**********************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-transition/transition.js ***!
   \**********************************************************************************************/
@@ -29761,7 +29734,7 @@ var substr = 'ab'.substr(-1) === 'b'
 Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 35));
 
 
-var _nvueAniMap = _interopRequireDefault(__webpack_require__(/*! ./nvue.ani-map.js */ 621));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};} // 定义一个一定时间后自动成功的promise，让调用nextTick方法处，进入下一个then方法
+var _nvueAniMap = _interopRequireDefault(__webpack_require__(/*! ./nvue.ani-map.js */ 564));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};} // 定义一个一定时间后自动成功的promise，让调用nextTick方法处，进入下一个then方法
 var nextTick = function nextTick() {return new Promise(function (resolve) {return setTimeout(resolve, 1000 / 50);});}; // nvue动画模块实现细节抽离在外部文件
 
 // 定义类名，通过给元素动态切换类名，赋予元素一定的css动画样式
@@ -29915,7 +29888,7 @@ var getClassNames = function getClassNames(name) {return {
     } } };exports.default = _default;
 
 /***/ }),
-/* 621 */
+/* 564 */
 /*!************************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-transition/nvue.ani-map.js ***!
   \************************************************************************************************/
@@ -29991,14 +29964,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
     'leave-to': { opacity: 0, transform: 'scale(0.95)' } } };exports.default = _default;
 
 /***/ }),
-/* 622 */,
-/* 623 */,
-/* 624 */,
-/* 625 */,
-/* 626 */,
-/* 627 */,
-/* 628 */,
-/* 629 */
+/* 565 */,
+/* 566 */,
+/* 567 */,
+/* 568 */,
+/* 569 */,
+/* 570 */,
+/* 571 */,
+/* 572 */
 /*!************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-popup/props.js ***!
   \************************************************************************************/
@@ -30085,53 +30058,29 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 630 */,
-/* 631 */,
-/* 632 */,
-/* 633 */,
-/* 634 */,
-/* 635 */,
-/* 636 */,
-/* 637 */
-/*!**********************************************************************************!*\
-  !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-gap/props.js ***!
-  \**********************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // 背景颜色（默认transparent）
-    bgColor: {
-      type: String,
-      default: uni.$u.props.gap.bgColor },
-
-    // 分割槽高度，单位px（默认30）
-    height: {
-      type: [String, Number],
-      default: uni.$u.props.gap.height },
-
-    // 与上一个组件的距离
-    marginTop: {
-      type: [String, Number],
-      default: uni.$u.props.gap.marginTop },
-
-    // 与下一个组件的距离
-    marginBottom: {
-      type: [String, Number],
-      default: uni.$u.props.gap.marginBottom } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
-
-/***/ }),
-/* 638 */,
-/* 639 */,
-/* 640 */,
-/* 641 */,
-/* 642 */,
-/* 643 */,
-/* 644 */,
-/* 645 */
+/* 573 */,
+/* 574 */,
+/* 575 */,
+/* 576 */,
+/* 577 */,
+/* 578 */,
+/* 579 */,
+/* 580 */,
+/* 581 */,
+/* 582 */,
+/* 583 */,
+/* 584 */,
+/* 585 */,
+/* 586 */,
+/* 587 */,
+/* 588 */,
+/* 589 */,
+/* 590 */,
+/* 591 */,
+/* 592 */,
+/* 593 */,
+/* 594 */,
+/* 595 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-text/props.js ***!
   \***********************************************************************************/
@@ -30249,12 +30198,12 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 646 */,
-/* 647 */,
-/* 648 */,
-/* 649 */,
-/* 650 */,
-/* 651 */
+/* 596 */,
+/* 597 */,
+/* 598 */,
+/* 599 */,
+/* 600 */,
+/* 601 */
 /*!**************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-toolbar/props.js ***!
   \**************************************************************************************/
@@ -30296,14 +30245,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 652 */,
-/* 653 */,
-/* 654 */,
-/* 655 */,
-/* 656 */,
-/* 657 */,
-/* 658 */,
-/* 659 */
+/* 602 */,
+/* 603 */,
+/* 604 */,
+/* 605 */,
+/* 606 */,
+/* 607 */,
+/* 608 */,
+/* 609 */
 /*!**************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-overlay/props.js ***!
   \**************************************************************************************/
@@ -30335,14 +30284,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 660 */,
-/* 661 */,
-/* 662 */,
-/* 663 */,
-/* 664 */,
-/* 665 */,
-/* 666 */,
-/* 667 */
+/* 610 */,
+/* 611 */,
+/* 612 */,
+/* 613 */,
+/* 614 */,
+/* 615 */,
+/* 616 */,
+/* 617 */
 /*!******************************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-safe-bottom/props.js ***!
   \******************************************************************************************/
@@ -30354,14 +30303,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
   props: {} };exports.default = _default;
 
 /***/ }),
-/* 668 */,
-/* 669 */,
-/* 670 */,
-/* 671 */,
-/* 672 */,
-/* 673 */,
-/* 674 */,
-/* 675 */
+/* 618 */,
+/* 619 */,
+/* 620 */,
+/* 621 */,
+/* 622 */,
+/* 623 */,
+/* 624 */,
+/* 625 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-text/value.js ***!
   \***********************************************************************************/
@@ -30455,14 +30404,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 676 */,
-/* 677 */,
-/* 678 */,
-/* 679 */,
-/* 680 */,
-/* 681 */,
-/* 682 */,
-/* 683 */
+/* 626 */,
+/* 627 */,
+/* 628 */,
+/* 629 */,
+/* 630 */,
+/* 631 */,
+/* 632 */,
+/* 633 */
 /*!***********************************************************************************!*\
   !*** F:/uniApp/food-safety-staff/uni_modules/uview-ui/components/u-link/props.js ***!
   \***********************************************************************************/

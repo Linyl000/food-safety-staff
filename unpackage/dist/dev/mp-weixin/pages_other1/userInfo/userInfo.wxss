@@ -30,4 +30,33 @@
 .data-v-276c990a .u-input {
   margin-top: 26rpx;
 }
+.name.data-v-276c990a {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 50rpx 0 20rpx;
+}
+.name .evaluate.data-v-276c990a {
+  padding: 0 40rpx;
+  color: #3bb972;
+}
+.examine.data-v-276c990a {
+  position: fixed;
+  display: flex;
+  width: 660rpx;
+  bottom: 0;
+  margin: auto;
+  padding: 30rpx 0rpx;
+}
+.supervise.data-v-276c990a {
+  position: fixed;
+  display: flex;
+  width: 600rpx;
+  bottom: 0;
+  margin: 0 auto;
+  padding: 30rpx 42rpx;
+}
+.slot-content.data-v-276c990a {
+  width: 100%;
+}
 

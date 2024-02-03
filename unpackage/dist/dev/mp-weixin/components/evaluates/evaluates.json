@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "z-paging": "/uni_modules/z-paging/components/z-paging/z-paging",
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-rate": "/uni_modules/uview-ui/components/u-rate/u-rate",
+    "u-album": "/uni_modules/uview-ui/components/u-album/u-album",
+    "u-datetime-picker": "/uni_modules/uview-ui/components/u-datetime-picker/u-datetime-picker"
+  },
+  "component": true
+}

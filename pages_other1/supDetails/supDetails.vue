@@ -58,7 +58,7 @@
 				></u-upload>
 			</u-form-item>
 			<u-form-item label="补充说明" labelPosition="top" required>
-				<u--textarea v-model="fromUp.mssm" placeholder="请输入内容" count></u--textarea>
+				<u--textarea v-model="form.bcsm" placeholder="请输入内容" count></u--textarea>
 			</u-form-item>
 		</u--form>
 		<div class="btn"><u-button type="primary" size="large" text="提交" @click="submit"></u-button></div>

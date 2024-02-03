@@ -23,11 +23,11 @@
 			<view class="right-content">
 				<view class="title">
 					<div class="name">新鲜饭店</div>
-					<div class="evaluate" @click.stop="goEvalueate">4.5</div>
+					<!-- <div class="evaluate" @click.stop="goUserInfo(j, t)">4.5</div> -->
 				</view>
 				<view class="details">
 					<view class="detail-address">地址：xxxxxxxxxxxxxxxxxxxxxxxxxxxxx</view>
-					<u-icon name="account-fill" size="26" @click.stop="goPeople"></u-icon>
+					<!-- <u-icon name="account-fill" size="26"></u-icon> -->
 				</view>
 			</view>
 		</view>

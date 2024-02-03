@@ -2,8 +2,13 @@
   "navigationBarTitleText": "个人中心",
   "enablePullDownRefresh": false,
   "usingComponents": {
-    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
-    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
-    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u--form": "/uni_modules/uview-ui/components/u--form/u--form",
+    "u-form-item": "/uni_modules/uview-ui/components/u-form-item/u-form-item",
+    "peoples": "/components/peoples/peoples",
+    "evaluates": "/components/evaluates/evaluates",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea"
   }
 }

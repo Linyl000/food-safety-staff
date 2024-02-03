@@ -38,6 +38,7 @@
 			}
 
 		}
+
 	],
 	"subPackages": [{
 		"root": "pages_other1",
@@ -83,13 +84,6 @@
 
 		}, {
 			"path": "changePeople/changePeople",
-			"style": {
-				"navigationBarTitleText": "",
-				"enablePullDownRefresh": false
-			}
-
-		}, {
-			"path": "suggestion/suggestion",
 			"style": {
 				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false

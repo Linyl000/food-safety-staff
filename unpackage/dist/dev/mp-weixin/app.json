@@ -18,7 +18,6 @@
         "evaluate/evaluate",
         "supDetails/supDetails",
         "changePeople/changePeople",
-        "suggestion/suggestion",
         "changeMima/changeMima"
       ]
     }

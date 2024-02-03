@@ -1,72 +1,35 @@
 <template>
 	<view class="pages">
-		<u-form labelPosition="top" :model="form" ref="uForm" labelWidth="300" :rules="rules">
-			<u-form-item label="姓名" required prop="name">
-				<u-input v-model="form.name" border="surround" placeholder="请填写姓名"></u-input>
+		<u-form labelPosition="top" :model="form" ref="uForm" labelWidth="300">
+			<u-form-item label="姓名">
+				<div class="form-div">{{ from.ztmc }}</div>
 			</u-form-item>
-			<u-form-item label="身份证号" required prop="idCardNumber">
-				<u-input v-model="form.idCardNumber" border="surround" prop="idCardNumber" placeholder="请填写身份证" @blur="getAge"></u-input>
+			<u-form-item label="年龄">
+				<div class="form-div">{{ from.jylx }}</div>
 			</u-form-item>
-			<u-form-item label="年龄" required prop="age">
-				<u-input v-model="form.age" border="surround" placeholder="年龄根据身份证自动识别" readonly></u-input>
+			<u-form-item label="电话号码">
+				<div class="form-div">{{ from.ztdz }}</div>
 			</u-form-item>
-			<!-- 	<u-form-item label="性别" required><u-input v-model="form.sex" border="surround" prop="sex"  placeholder="性别根据身份证自动识别" readonly></u-input></u-form-item> -->
-			<u-form-item label="电话号码" required prop="phoneNumber">
-				<u-input v-model="form.phoneNumber" border="surround" placeholder="请填写电话号码"></u-input>
+			<u-form-item label="身份证号">
+				<div class="form-div">{{ from.jysj }}</div>
 			</u-form-item>
-			<u-form-item label="所属商户" required prop="merchantId">
-				<u-input v-model="userInfo.nickname" border="surround" readonly></u-input>
-			</u-form-item>
-			<u-form-item label="职位" required @click="showZw = true" prop="positionId">
-				<u-picker
-					:show="showZw"
-					:columns="columnsZw"
-					@cancel="showZw = false"
-					@confirm="changeZw"
-					title="职位"
-					keyName="key"
-					immediateChange
-				></u-picker>
-				<u-input readonly border="surround" placeholder="点击选择职位" v-model="linshiZw"></u-input>
-			</u-form-item>
-			<u-form-item label="入职时间" required prop="entryDate" @click="showRzsj = true">
-				<u-datetime-picker :show="showRzsj" mode="date" @cancel="showRzsj = false" @confirm="changeRzsj"></u-datetime-picker>
-				<u-input readonly border="surround" placeholder="请选择入职时间" v-model="form.entryDate"></u-input>
-			</u-form-item>
-			<u-form-item label="上传健康证照片" required prop="healthCertificatePhotoUrl">
-				<Cropping @upload="doUploadCard" ref="cropping2" :needCamera="false" />
-				<view style="position: relative;">
-					<!-- 		form.healthCertificatePhotoUrl ? previewImage(form.healthCertificatePhotoUrl) : goCropping2();-->
-					<img
-						:src="form.healthCertificatePhotoUrl ? form.healthCertificatePhotoUrl : '../../static/front.png'"
-						alt=""
-						style="width: 574rpx;height: 364rpx;"
-						@click="
-							form.healthCertificatePhotoUrl ? previewImage(form.healthCertificatePhotoUrl) : (showAction = true);
+			<u-form-item label="所属商户">{{ from.jj }}</u-form-item>
+			<u-form-item label="职位">{{ from.jj }}</u-form-item>
+			<u-form-item label="入职时间">{{ from.jj }}</u-form-item>
+			<u-form-item label="健康证到期时间">{{ from.jj }}</u-form-item>
+			<u-form-item label="健康证状态">{{ from.jj }}</u-form-item>
 
-							cardType = 'front';
-						"
-					/>
-					<div
-						v-if="form.healthCertificatePhotoUrl"
-						style="position: absolute; top: 0rpx; left: 514rpx;"
-						@click="form.healthCertificatePhotoUrl = null"
-					>
-						<u-icon name="close-circle-fill" size="30"></u-icon>
-					</div>
-				</view>
+			<u-form-item label="健康证照片">
+				<image
+					mode="widthFix"
+					style="width: 170rpx;"
+					:src="'../../static/up-image.png'"
+					@click="previewImage('../../static/up-image.png')"
+				></image>
 			</u-form-item>
 		</u-form>
-		<u-action-sheet
-			:actions="list"
-			title="请选择上传方式"
-			:show="showAction"
-			@select="selectClick"
-			@close="showAction = false"
-			:closeOnClickOverlay="true"
-			:closeOnClickAction="true"
-		></u-action-sheet>
-		<div class="btn"><u-button type="primary" size="large" text="提交" @click="submit"></u-button></div>
+		<div style="height: 120rpx;"></div>
+		<div class="supervise"><u-button type="primary" text="监管" @click="goSupDetails"></u-button></div>
 	</view>
 </template>
 
@@ -82,29 +45,7 @@ export default {
 	},
 	data() {
 		return {
-			form: {
-				name: '',
-				age: '',
-				// sex: '',
-				phoneNumber: '',
-				idCardNumber: '',
-				merchantId: '',
-				positionId: '',
-				entryDate: '',
-				healthCertificatePhotoUrl: ''
-			},
-			rules: {
-				//校验默认强制string
-				name: [{ required: true, message: '请输入姓名', trigger: 'blur' }],
-				// sex: [{ required: true, message: '请输入性别', trigger: 'blur' }],
-				age: [{ required: true, type: 'integer', message: '请输入数字为整数的年龄', trigger: 'blur' }],
-				phoneNumber: [{ required: true, message: '请输入电话', trigger: 'blur' }],
-				idCardNumber: [{ required: true, message: '请输入身份证号', trigger: 'blur', len: 18 }],
-				positionId: [{ required: true, message: '请选择职位', trigger: 'blur' }],
-				positionId: [{ validator: this.validatePositionId, trigger: 'blur' }],
-				entryDate: [{ required: true, message: '请选择入职时间', trigger: 'blur' }],
-				healthCertificatePhotoUrl: [{ required: true, message: '请上传健康证', trigger: 'blur' }]
-			},
+			form: {},
 			showAction: false,
 			showZw: false,
 			showRzsj: false,
@@ -212,71 +153,10 @@ export default {
 				inner: true
 			});
 		},
-		selectClick(i) {
-			if (i.name === '从手机相册选择') {
-				this.$refs.cropping2.fChooseImg(1, {
-					selWidth: '632upx',
-					selHeight: '400upx',
-					inner: true
-				});
-			} else if (i.name === '拍照') {
-				uni.navigateTo({
-					url: '../../pages_other1/test/test?cardType=' + this.cardType
-				});
-			}
-		},
-		// 上传相关
-		async afterRead(event) {
-			let lists = [].concat(event.file);
-			let fileListLen = this[`fileList${event.name}`].length;
-			lists.map(item => {
-				this[`fileList${event.name}`].push({
-					...item,
-					status: 'uploading',
-					message: '上传中'
-				});
+		goSupDetails() {
+			uni.navigateTo({
+				url: '/pages_other1/supDetails/supDetails'
 			});
-			for (let i = 0; i < lists.length; i++) {
-				const result = await this.uploadFilePromise(lists[i].url);
-				let item = this[`fileList${event.name}`][fileListLen];
-				this[`fileList${event.name}`].splice(
-					fileListLen,
-					1,
-					Object.assign(item, {
-						status: 'success',
-						message: '',
-						url: result
-					})
-				);
-				fileListLen++;
-			}
-			//上传好的视频就是fileList 列表
-			this.upMediaOrImg = false;
-		},
-		uploadFilePromise(url) {
-			this.upMediaOrImg = true;
-			return new Promise((resolve, reject) => {
-				let a = uni.uploadFile({
-					url: ip + 'app-api/infra/file/upload',
-					filePath: url,
-					name: 'file',
-					success: res => {
-						setTimeout(() => {
-							resolve(JSON.parse(res.data));
-						}, 1000);
-					},
-					fail(e) {
-						this.upMediaOrImg = false;
-						uni.showToast({
-							title: e,
-							icon: 'none'
-						});
-					}
-				});
-			});
-		},
-		deletePic(event) {
-			this[`fileList${event.name}`].splice(event.index, 1);
 		},
 		previewImage(i) {
 			uni.previewImage({
@@ -287,4 +167,13 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.supervise {
+	position: fixed;
+	display: flex;
+	width: 600rpx;
+	bottom: 0;
+	margin: 0 auto;
+	padding: 30rpx 42rpx;
+}
+</style>

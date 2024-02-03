@@ -2,6 +2,19 @@
 	<view>
 		<z-paging ref="paging" v-model="dataList" use-cache cache-key="goodsList" @query="queryList" loading-more-no-more-text="THE END">
 			<template #top>
+				<div style="display: flex;padding: 10rpx;background-color: #fff;">
+					<u-search
+						v-model="name"
+						:clearabled="true"
+						:showAction="true"
+						placeholder="查询姓名"
+						actionText="搜索"
+						:actionStyle="{ 'font-size': '18px' }"
+						margin="0 20rpx 0 0"
+						@change="searchSome"
+					></u-search>
+					<u-icon name="plus-circle" size="26" @click="goSupDetails"></u-icon>
+				</div>
 				<u-tabs :list="list1" @click="tabChange" :scrollable="false"></u-tabs>
 			</template>
 			<u-cell-group :border="false">
@@ -60,6 +73,11 @@ export default {
 		tabChange({ index }) {
 			this.type = index;
 			this.$refs.paging.reload();
+		},
+		goSupDetails() {
+			uni.navigateTo({
+				url: '/pages_other1/supDetails/supDetails'
+			});
 		}
 	}
 };

@@ -6,16 +6,16 @@
 			</view>
 		</template>
 
-		<view class="container" v-for="j in 10" :key="j" @click="goCurriculum(j)">
+		<view class="container" v-for="j in 10" :key="j" @click="goUserInfo(j)">
 			<video class="img-main" :src="j.taskVideo" :controls="false" :show-center-play-btn="false"></video>
 			<view class="right-content">
 				<view class="title">
 					<div class="name">新鲜饭店</div>
-					<div class="evaluate" @click.stop="goEvalueate">4.5</div>
+					<div class="evaluate" @click.stop="goUserInfo(j, 2)">4.5</div>
 				</view>
 				<view class="details">
 					<view class="detail-address">地址：xxxxxxxxxxxxxxxxxxxxxxxxxxxxx</view>
-					<u-icon name="account-fill" size="26" @click.stop="goPeople"></u-icon>
+					<u-icon name="account-fill" size="26" @click="goUserInfo(j, 1)"></u-icon>
 				</view>
 			</view>
 		</view>
@@ -54,9 +54,10 @@ export default {
 			// 		this.$refs.paging.complete(false);
 			// 	});
 		},
-		goEvalueate() {
+
+		goUserInfo(j, type) {
 			uni.navigateTo({
-				url: '/pages_other1/evaluate/evaluate'
+				url: '/pages_other1/userInfo/userInfo?j=' + j + '&&examine=no&&type=' + type
 			});
 		}
 	}
